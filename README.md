@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    Frontend developer, ReactJS enjoyer, renaissance man
+    Frontend developer, ReactJS enjoyer, renaissance man. Currently learning and exploring various tools and technologies by making my own projects.
   </samp>
 </p>
 <!-- badges -->
