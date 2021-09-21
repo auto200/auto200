@@ -2,7 +2,7 @@
 
 <p align="center">
 About me
-</p
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=auto200&title=Commit,Repositories,PullRequest&theme=onedark" alt="trophies"/>
