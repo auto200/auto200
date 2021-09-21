@@ -1,7 +1,14 @@
 ## Hi, I'm Michał 🙋‍♂️
 
 <p align="center">
-About me
+  <samp>
+    Frontend developer, ReactJS enjoyer, renaissance man
+  </samp>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </p>
 
 <p align="center">
